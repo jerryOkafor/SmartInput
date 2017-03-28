@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SmartInput</string>
+    <plurals name="error_week_password">
+        <item quantity="one">Password not strong enough. Use at least %1$d character and a mix of letters and numbers</item>
+        <item quantity="other">Password not strong enough. Use at least %1$d characters and a mix of letters and numbers</item>
+    </plurals>
 </resources>
